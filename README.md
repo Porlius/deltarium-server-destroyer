@@ -15,7 +15,7 @@ deltarium use bot destroy the servers<br />
 <pre>cd deltarium-server-destroyer</pre>
 <pre>python3 deltarium.py</pre>
 <br />
-# what deltarium do<br />
+#what deltarium do<br />
 deltarium make this 4 things<br />
 -delate all channels<br />
 -create a role called assimilated<br />
