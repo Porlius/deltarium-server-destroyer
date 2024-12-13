@@ -1,6 +1,6 @@
 # deltarium-server-destroyer<br />
 It would be best to assimilate the server, but in certain cases that is not possible and only ashes should remain<br />
-[https://github.com/Porlius/deltarium-server-destroyer/blob/main/destroyed.png]<br />
+"![https://github.com/Porlius/deltarium-server-destroyer/blob/main/destroyed.png]<br />
 # what is deltarium<br />
 deltarium is the discord server raider created by the universal union to destroy some server<br />
 deltarium use bot destroy the servers<br />
