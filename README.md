@@ -10,6 +10,10 @@ deltarium use bot destroy the servers<br />
 -install it<br />
 -execute it<br />
 -insert the bot token inside the terminal<br />
+<pre>pkg install git</pre>
+<pre>git clone https://github.com/Porlius/deltarium-server-destroyer.git</pre>
+<pre>cd deltarium-server-destroyer</pre>
+<pre>python3 deltarium.py</pre>
 <br />
 # what deltarium do<br />
 deltarium make this 4 things<br />
